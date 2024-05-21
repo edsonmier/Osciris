@@ -1,0 +1,50 @@
+.song-item {
+    display: flex; /* Disposición en fila de los elementos del item */
+    align-items: center; /* Alineación vertical de los elementos */
+    background-color: #2F2F2F; /* Un poco más claro que el fondo del contenedor principal para diferenciar */
+    margin-bottom: 10px; /* Espacio entre los elementos de la lista */
+    padding: 10px; /* Espaciado interno */
+    border-radius: 5px; /* Bordes ligeramente redondeados */
+}
+
+.song-number {
+    width: 30px; /* Ajusta según necesidad */
+    height: 30px; /* Mantiene el círculo */
+    background-color: white; /* Fondo blanco para el círculo */
+    color: black; /* Número en color negro */
+    border-radius: 50%; /* Hace el elemento completamente circular */
+    display: flex;
+    justify-content: center; /* Centra el contenido horizontalmente */
+    align-items: center; /* Centra el contenido verticalmente */
+    margin-right: 15px; /* Espacio entre el número y la imagen de la portada */
+}
+
+.song-cover {
+    width: 50px; /* Tamaño de la imagen de la portada */
+    height: 50px; /* Mantiene el aspecto cuadrado de la portada */
+    margin-right: 15px; /* Espacio entre la portada y la información de la canción */
+}
+
+.song-info {
+    flex-grow: 1; /* Permite que este contenedor ocupe el espacio restante */
+}
+
+.song-title, .song-artist {
+    margin: 0; /* Remueve los márgenes por defecto */
+}
+
+/* Estilos para los donantes */
+.donors {
+    display: flex;
+    align-items: center;
+}
+
+.donor {
+    margin-left: 10px; /* Espacio entre donantes */
+}
+
+.donor img {
+    width: 30px; /* Tamaño de la imagen del perfil del donante */
+    height: 30px; /* Mantiene el aspecto circular */
+    border-radius: 50%; /* Hace la imagen completamente circular */
+}

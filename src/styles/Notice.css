@@ -1,0 +1,156 @@
+.notice-screen {
+  background-color: #000; /* Fondo negro para la barra de notificaciones */
+  display: flex;
+  overflow-x: auto;
+  padding: 10px;
+  height: 8rem;
+}
+
+.notice {
+  background-color: var(--background-color, #FFF); /* Fondo según el tipo de notificación */
+  border-radius: 10px; /* Esquinas redondeadas */
+  display: flex;
+  margin-right: 10px; /* Espacio entre notificaciones */
+  min-width: 300px; /* Ancho mínimo para cada notificación */
+  position: relative;
+  overflow: hidden; /* Asegura que el contenido adicional esté oculto */
+}
+
+.notice-icon-container {
+  background-color: #1F1F1F; /* Fondo del cuadro izquierdo */
+  border-radius: 8px; /* Bordes redondeados */
+  padding: 10px; /* Espaciado interno */
+  position: relative; /* Para posicionar elementos internos */
+  width: 7rem;
+  height: 7rem;
+}
+
+.notice-icon-container .cover-container {
+  border-radius: 5px; /* Bordes redondeados */
+  height: 5rem; /* Altura del cuadro de la portada */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centrar el cuadro */
+  width: 5rem; /* Ancho del cuadro de la portada */
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.notice-icon-container .info-circle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F1F1F; /* Fondo del círculo de información */
+  border-radius: 50%; /* Forma circular */
+  color: #FFF; /* Texto en blanco */
+  font-size: 1.5rem; /* Tamaño del texto */
+  height: 4rem; /* Tamaño del círculo */
+  width: 4rem; /* Tamaño del círculo */
+  font-weight: bold;
+}
+
+.notice-content {
+  flex-grow: 1; /* Ocupar el espacio restante */
+  padding: 10px; /* Espaciado interno */
+}
+
+.notice-header {
+  background-color: #1F1F1F; /* Fondo del rectángulo superior */
+  color: #FFF; /* Texto en blanco */
+  padding: 5px; /* Espaciado interno */
+  border-radius: 5px;
+  font-weight: bold;
+  height: 1.5rem;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.notice-song-title {
+  color: #1F1F1F; /* Texto color */
+  font-size: 1.5rem;
+}
+
+.notice-artist-name {
+  color: #1F1F1F; /* Texto color */
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.notice-position {
+  align-items: center;
+  margin-top: 0.4rem;
+  display: flex;
+}
+
+.notice-position .position-circle {
+  background-color: #1F1F1F; /* Fondo del círculo de posición */
+  border-radius: 50%; /* Forma circular */
+  height: 15px; /* Tamaño del círculo */
+  margin-right: 5px; /* Espacio a la derecha del círculo */
+  width: 15px; /* Tamaño del círculo */
+}
+
+.notice-position span {
+  color: #1F1F1F; /* Texto color */
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.notice-donation {
+  position: relative; /* Para posicionar el pseudo-elemento */
+  overflow: hidden; /* Asegura que el contenido adicional esté oculto */
+  --background-image: url('data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=='); /* Imagen transparente por defecto */
+  --background-color: #000; /* Fondo negro para donaciones */
+}
+
+.notice-donation::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: var(--background-image); /* Utiliza la variable CSS para la imagen de fondo */
+  background-size: cover;
+  background-position: 0 0; /* Asegura que la animación se inicie desde la posición correcta */
+  opacity: 0.5; /* Opacidad reducida solo para el fondo */
+  z-index: 1;
+  border-radius: 10px; /* Ajusta el borde para que coincida con el contenedor */
+  animation: moveBackground 20s linear infinite; /* Añadir la animación al pseudo-elemento */
+}
+
+.notice-donation .notice-icon-container,
+.notice-donation .info-circle,
+.notice-donation .notice-header,
+.notice-donation .notice-position .position-circle,
+.notice-donation .notice-song-title,
+.notice-donation .notice-artist-name,
+.notice-donation .notice-position span {
+  position: relative;
+  z-index: 2; /* Asegura que estos elementos estén por encima del pseudo-elemento de fondo */
+  color: #FFF; /* Texto color */
+}
+
+.notice-donation .notice-icon-container {
+  background-color: #FFF; /* Fondo blanco para el cuadro izquierdo */
+}
+
+.notice-donation .info-circle {
+  background-color: #FFF; /* Fondo blanco para el círculo de información */
+  color: #1F1F1F; /* Texto color */
+}
+
+.notice-donation .notice-header,
+.notice-donation .notice-position .position-circle {
+  background-color: #FFF; /* Fondo blanco para el header y el círculo de posición */
+  color: #1F1F1F; /* Texto color */
+}
+
+@keyframes moveBackground {
+  0% { background-position: 0 0; }
+  100% { background-position: 200% 0; } /* Ajusta para un efecto de movimiento más largo */
+}

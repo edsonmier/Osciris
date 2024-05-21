@@ -1,0 +1,52 @@
+.main {
+    width: 100%;
+    height: 28rem;
+  }
+  
+  .songs-list-container {
+    max-height: 28rem;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .songs-list {
+    color: white;
+    width: 100%;
+    position: relative; /* Asegura que la propiedad transform se aplique correctamente */
+  }
+  
+  .songs-list h3 {
+    text-align: center;
+    margin-bottom: 15px;
+    width: 100%;
+    background: #000;
+  }
+  
+  .scroll-animation {
+    animation: scroll-up 10s linear infinite;
+  }
+
+  @keyframes scroll-up {
+    0%, 100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    80% {
+      transform: translateY(var(--scroll-distance)); /* Mueve la lista hacia arriba hasta el final */
+      opacity: 1; /* Lista completamente visible */
+    }
+    50% {
+      transform: translateY(var(--scroll-distance));
+      opacity: 1; /* Mantén la lista visible y en su posición final para crear una pausa */
+    }
+    90% {
+      opacity: 0; /* Comienza a desvanecer la lista */
+    }
+    95% {
+      transform: translateY(0); /* Reinicia la lista en el inicio pero aún es invisible */
+      opacity: 0;
+    }
+    100% {
+      opacity: 1; /* La lista vuelve a ser completamente visible */
+    }
+  }

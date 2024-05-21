@@ -1,0 +1,11 @@
+.music-player-container {
+    background-color: #1F1F1F;
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    height: 40rem;
+    width: 30rem;
+}

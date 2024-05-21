@@ -1,0 +1,2767 @@
+[
+    {
+      "id": "0000",
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "albumCover": "https://m.media-amazon.com/images/I/71-KbdVMpJL._AC_UF1000,1000_QL80_.jpg",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "title": "No More Dream",
+      "duration": 222
+    },
+    {
+      "id": "0001",
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "we are bulletproof 2"],
+      "albumCover": "https://m.media-amazon.com/images/I/71-KbdVMpJL._AC_UF1000,1000_QL80_.jpg",
+      "title": "We are bulletproof PT.2",
+      "duration": 224
+    },
+    {
+      "id": "0002",
+      "duration": 230,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71-KbdVMpJL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Path"
+    },
+    {
+      "id": "0003",
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "N.O"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "N.O",
+      "duration": 210
+    },
+    {
+      "id": "0004",
+      "duration": 231,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "We On"
+    },
+    {
+      "id": "0005",
+      "duration": 260,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "Coffee"
+    },
+    {
+      "id": "0006",
+      "duration": 247,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "Attack on Bangtan"
+    },
+    {
+      "id": "0007",
+      "duration": 86,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "luv in skool"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "OUTRO: LUV IN SKOOL"
+    },
+    {
+      "id": "0008",
+      "duration": 205,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://pm1.aminoapps.com/6417/bdbcce51167e7ae8f54dbcd439c2abf2b5df4a0c_00.jpg",
+      "title": "Paldogangsan"
+    },
+    {
+      "id": "0009",
+      "duration": 231,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://doolsetstore.com/wp-content/uploads/2021/08/sla.png",
+      "title": "Boy In Luv"
+    },
+    {
+      "id": "0010",
+      "duration": 239,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://doolsetstore.com/wp-content/uploads/2021/08/sla.png",
+      "title": "Just One Day"
+    },
+    {
+      "id": "0011",
+      "duration": 262,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://doolsetstore.com/wp-content/uploads/2021/08/sla.png",
+      "title": "Tomorrow"
+    },
+    {
+      "id": "0012",
+      "duration": 236,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://doolsetstore.com/wp-content/uploads/2021/08/sla.png",
+      "title": "Jump"
+    },
+    {
+      "id": "0013",
+      "duration": 245,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Danger"
+    },
+    {
+      "id": "0014",
+      "duration": 255,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Let Me Know"
+    },
+    {
+      "id": "0015",
+      "duration": 265,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Rain"
+    },
+    {
+      "id": "0016",
+      "duration": 242,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Embarrased"
+    },
+    {
+      "id": "0017",
+      "duration": 226,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "24 7 heaven"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "24/7=Heaven"
+    },
+    {
+      "id": "0018",
+      "duration": 219,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Look Here"
+    },
+    {
+      "id": "0019",
+      "duration": 235,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "2ND GRADE"
+    },
+    {
+      "id": "0020",
+      "duration": 173,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "do you think it makes sense"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Outro: Do you think it makes sense?"
+    },
+    {
+      "id": "0021",
+      "duration": 257,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/71a9si+XaWL._UF1000,1000_QL80_.jpg",
+      "title": "Hip Hop Phile"
+    },
+    {
+      "id": "0022",
+      "duration": 211,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt1/album-cover.jpg",
+      "title": "I NEED U"
+    },
+    {
+      "id": "0023",
+      "duration": 275,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt1/album-cover.jpg",
+      "title": "Hold Me Tight"
+    },
+    {
+      "id": "0024",
+      "duration": 240,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt1/album-cover.jpg",
+      "title": "DOPE"
+    },
+    {
+      "id": "0025",
+      "duration": 244,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt1/album-cover.jpg",
+      "title": "Boyz with Fun"
+    },
+    {
+      "id": "0026",
+      "duration": 293,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt1/album-cover.jpg",
+      "title": "Moving On"
+    },
+    {
+      "id": "0027",
+      "duration": 237,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "run 1", "run the most beautiful", "run azul"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "RUN (The Most Beautiful Moment In Life)"
+    },
+    {
+      "id": "0028",
+      "duration": 239,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "Butterfly"
+    },
+    {
+      "id": "0029",
+      "duration": 243,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "Whalien 52"
+    },
+    {
+      "id": "0030",
+      "duration": 257,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "Ma City"
+    },
+    {
+      "id": "0031",
+      "duration": 215,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "Silver Spoon"
+    },
+    {
+      "id": "0032",
+      "duration": 267,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ibighit.com/bts/images/bts/discography/hwayangyeonhwa-pt2/album-cover.jpg",
+      "title": "Autumn Leaves"
+    },
+    {
+      "id": "0033",
+      "duration": 197,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+      "title": "SAVE ME"
+    },
+    {
+      "id": "0034",
+      "duration": 172,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "young forever"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+      "title": "Epilogue: Young Forever"
+    },
+    {
+      "id": "0035",
+      "duration": 226,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "house cards"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+      "title": "House of Cards"
+    },
+    {
+      "id": "0036",
+      "duration": 222,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+      "title": "Love is not over"
+    },
+    {
+      "id": "0037",
+      "duration": 203,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b4/The_Most_Beautiful_Moment_In_Life%2C_Young_Forever.jpeg",
+      "title": "FIRE"
+    },
+    {
+      "id": "0038",
+      "duration": 217,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "blood sweat and tears"],
+      "albumCover": "https://storage.ko-fi.com/cdn/useruploads/display/6034a75e-0586-4e07-94d7-48e9a78f9359_album-cover.jpg",
+      "title": "Blood Sweat & Tears"
+    },
+    
+    {
+      "id": "0039",
+      "duration": 242,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://storage.ko-fi.com/cdn/useruploads/display/6034a75e-0586-4e07-94d7-48e9a78f9359_album-cover.jpg",
+      "title": "Lost"
+    },
+    {
+      "id": "0040",
+      "duration": 121,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://storage.ko-fi.com/cdn/useruploads/display/6034a75e-0586-4e07-94d7-48e9a78f9359_album-cover.jpg",
+      "title": "2! 3!"
+    },
+    {
+      "id": "0041",
+      "duration": 230,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://storage.ko-fi.com/cdn/useruploads/display/6034a75e-0586-4e07-94d7-48e9a78f9359_album-cover.jpg",
+      "title": "Begin"
+    },
+    {
+      "id": "0042",
+      "duration": 274,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1525419726713-1GRPX2FK8GLGLNC53FFI/image-asset.jpeg",
+      "title": "Spring Day"
+    },
+    {
+      "id": "0043",
+      "duration": 232,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1525419726713-1GRPX2FK8GLGLNC53FFI/image-asset.jpeg",
+      "title": "Not Today"
+    },
+    {
+      "id": "0044",
+      "duration": 225,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "wings"],
+      "albumCover": "https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1525419726713-1GRPX2FK8GLGLNC53FFI/image-asset.jpeg",
+      "title": "Outro: Wings"
+    },
+    {
+      "id": "0045",
+      "duration": 223,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "DNA"
+    },
+    {
+      "id": "0046",
+      "duration": 197,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "Dimple"
+    },
+    {
+      "id": "0047",
+      "duration": 235,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "Go Go"
+    },
+    {
+      "id": "0048",
+      "duration": 315,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "SEA"
+    },
+    {
+      "id": "0049",
+      "duration": 239,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "MIC Drop"
+    },
+    {
+      "id": "0050",
+      "duration": 246,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "Pied Paper"
+    },
+    {
+      "id": "0051",
+      "duration": 227,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://www.shopavia.com/wp-content/uploads/2023/05/cd-bts-love-yourself-her-edicion-estandar-0.jpg",
+      "title": "Best Of Me"
+    },
+    {
+      "id": "0052",
+      "duration": 246,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "FAKE LOVE"
+    },
+    {
+      "id": "0053",
+      "duration": 230,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "pluto"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "134340"
+    },
+    {
+      "id": "0054",
+      "duration": 222,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "Love Maze"
+    },
+    {
+      "id": "0055",
+      "duration": 276,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "Magic Shop"
+    },
+    {
+      "id": "0056",
+      "duration": 233,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "Anpanman"
+    },
+    {
+      "id": "0057",
+      "duration": 282,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "So What"
+    },
+    {
+      "id": "0058",
+      "duration": 211,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "Paradise"
+    },
+    {
+      "id": "0059",
+      "duration": 219,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "airplane"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "Airplane pt.2"
+    },
+    {
+      "id": "0060",
+      "duration": 242,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/pt/a/ae/BTS_-_Love_Yourself_Tear.jpeg",
+      "title": "The Truth Untold"
+    },
+    {
+      "id": "0061",
+      "duration": 236,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://pm1.aminoapps.com/6855/4cd899c9a267f331281ebdb1fb42b9ebd23fddd0v2_00.jpg",
+      "title": "Ddaeng"
+    },
+    {
+      "id": "0062",
+      "duration": 223,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "IDOL"
+    },
+    {
+      "id": "0063",
+      "duration": 240,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "I'm Fine"
+    },
+    {
+      "id": "0064",
+      "duration": 251,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "Answer: Love Myself"
+    },
+    {
+      "id": "0065",
+      "duration": 246,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "Trivia: Seesaw"
+    },
+    {
+      "id": "0066",
+      "duration": 240,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "Epiphany"
+    },
+    {
+      "id": "0067",
+      "duration": 229,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://ipurple.eu/1498-large_default/bts-love-yourself-answer-.jpg",
+      "title": "Euphoria"
+    },
+    {
+      "id": "0068",
+      "duration": 229,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/51wUYZ1HYmL.jpg",
+      "title": "Boy With Luv"
+    },
+    {
+      "id": "0069",
+      "duration": 249,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/51wUYZ1HYmL.jpg",
+      "title": "Dionysus"
+    },
+    {
+      "id": "0070",
+      "duration": 226,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/51wUYZ1HYmL.jpg",
+      "title": "Mikrokosmos"
+    },
+    {
+      "id": "0071",
+      "duration": 234,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "home bt"],
+      "albumCover": "https://m.media-amazon.com/images/I/51wUYZ1HYmL.jpg",
+      "title": "HOME"
+    },
+    {
+      "id": "0072",
+      "duration": 226,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/51wUYZ1HYmL.jpg",
+      "title": "Jamais Vu"
+    },
+    {
+      "id": "0073",
+      "duration": 175,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "V", "Taehyung", "Tae"],
+      "albumCover": "https://images.genius.com/50d4fbbab2cbf84b2a64f305a2650a58.1000x1000x1.jpg",
+      "title": "Winter Bear"
+    },
+    {
+      "id": "0074",
+      "duration": 246,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "ON"
+    },
+    {
+      "id": "0075",
+      "duration": 198,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "Black Swan"
+    },
+    {
+      "id": "0076",
+      "duration": 262,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "the eternal"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "We are Bulletproof: the Eternal"
+    },
+    {
+      "id": "0077",
+      "duration": "250",
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "zero oclock", "las 12"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "00:00 (Zero O'Clock)"
+    },
+    {
+      "id": "0078",
+      "duration": 217,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "Louder than bombs"
+    },
+    {
+      "id": "0079",
+      "duration": 225,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "UGH!"
+    },
+    {
+      "id": "0080",
+      "duration": 199,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "Friends"
+    },
+    {
+      "id": "0081",
+      "duration": 238,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "Respect"
+    },
+    {
+      "id": "0082",
+      "duration": 234,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "My Time"
+    },
+    {
+      "id": "0083",
+      "duration": 233,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://m.media-amazon.com/images/I/61Pj0N8bp2L._UF1000,1000_QL80_.jpg",
+      "title": "Inner Child"
+    },
+    {
+      "id": "0084",
+      "duration": 240,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://images.genius.com/605163faee822e5f66d6b9c26ef11f5e.1000x1000x1.jpg",
+      "title": "Still With You"
+    },
+    {
+      "id": "0085",
+      "duration": 199,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://i.pinimg.com/originals/f8/6d/3d/f86d3da1dd830897d1b37ca1cdda39f9.jpg",
+      "title": "Dynamite"
+    },
+    {
+      "id": "0086",
+      "duration": 207,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+      "title": "Life Goes On"
+    },
+    {
+      "id": "0087",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+      "title": "Telepathy"
+    },
+    {
+      "id": "0088",
+      "duration": 240,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "disease"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+      "title": "Dis-ease"
+    },
+    {
+      "id": "0089",
+      "duration": 255,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "blue and grey", "blue and gray"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+      "title": "Blue & Grey"
+    },
+    {
+      "id": "0090",
+      "duration": 222,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/a2/BTS_-_Be_Cover.png",
+      "title": "Fly To My Room"
+    },
+    {
+      "id": "0091",
+      "duration": 164,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://i1.sndcdn.com/artworks-j9jBMU0XlLoxxOEM-lvvllg-t500x500.jpg",
+      "title": "Butter"
+    },
+    {
+      "id": "0092",
+      "duration": 194,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ff2321f46527178fcbe09b5164450c39/500x500.jpg",
+      "title": "Yet To Come"
+    },
+    {
+      "id": "0093",
+      "duration": 205,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "run proof", "run 2", "run negro"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ff2321f46527178fcbe09b5164450c39/500x500.jpg",
+      "title": "RUN (Proof)"
+    },
+    {
+      "id": "0094",
+      "duration": 264,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ff2321f46527178fcbe09b5164450c39/500x500.jpg",
+      "title": "For Youth"
+    },
+    {
+      "id": "0095",
+      "duration": 180,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "j-hope", "jhope", "hobi", "more bts"],
+      "albumCover": "https://akamai.sscdn.co/uploadfile/letras/albuns/2/5/4/b/01657890554.jpg",
+      "title": "MORE"
+    },
+    {
+      "id": "0096",
+      "duration": 160,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "j-hope", "jhope", "hobi"],
+      "albumCover": "https://akamai.sscdn.co/uploadfile/letras/albuns/2/5/4/b/01657890554.jpg",
+      "title": "Arson"
+    },
+    {
+      "id": "0097",
+      "duration": 194,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "RM", "Rap Monster", "Namjoon", "Nam-joon", "Kim Namjoon", "no 2"],
+      "albumCover": "https://news.artnet.com/app/news-upload/2022/12/rm-indigo-3.jpeg",
+      "title": "No.2"
+    },
+    {
+      "id": "0098",
+      "duration": 273,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "RM", "Rap Monster", "Namjoon", "Nam-joon", "Kim Namjoon"],
+      "albumCover": "https://news.artnet.com/app/news-upload/2022/12/rm-indigo-3.jpeg",
+      "title": "Wild Flower"
+    },
+    {
+      "id": "0099",
+      "duration": 175,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "RM", "Rap Monster", "Namjoon", "Nam-joon", "Kim Namjoon"],
+      "albumCover": "https://news.artnet.com/app/news-upload/2022/12/rm-indigo-3.jpeg",
+      "title": "Still Life"
+    },
+    {
+      "id": "0100",
+      "duration": 162,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "RM", "Rap Monster", "Namjoon", "Nam-joon", "Kim Namjoon", "forgtful"],
+      "albumCover": "https://news.artnet.com/app/news-upload/2022/12/rm-indigo-3.jpeg",
+      "title": "Forg_tful"
+    },
+    {
+      "id": "0101",
+      "duration": 212,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jimin", "Ji-min", "Park Jimin"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/fd/Jimin_Face_debut_album_cover.png",
+      "title": "Like Crazy"
+    },
+    {
+      "id": "0102",
+      "duration": 211,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jimin", "Ji-min", "Park Jimin"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/fd/Jimin_Face_debut_album_cover.png",
+      "title": "Alone"
+    },
+    {
+      "id": "0103",
+      "duration": 168,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Suga", "Agust D", "Yoongi", "Min Yoon-gi"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/20c82939ea174f4d127622105cc27ef9/500x500.jpg",
+      "title": "Haegeum"
+    },
+    {
+      "id": "0104",
+      "duration": 214,
+      "difficulty": "Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Suga", "Agust D", "Yoongi", "Min Yoon-gi", "people 2"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/20c82939ea174f4d127622105cc27ef9/500x500.jpg",
+      "title": "People Pt.2"
+    },
+    {
+      "id": "0105",
+      "duration": 229,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/327f27bb81e5d7a7bf74aa12133f9e13/500x500.jpg",
+      "title": "Take Two"
+    },
+    {
+      "id": "0106",
+      "duration": 184,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jungkook", "Jung Kook", "Jk"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d1ddbc901bf7d7b43187fac1b1e6714e/500x500.jpg",
+      "title": "Seven"
+    },
+    {
+      "id": "0107",
+      "duration": 180,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "V", "Taehyung", "Kim Taehyung", "Tae"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d46aa3a3b70786cb2137c878f1a76946/500x500.jpg",
+      "title": "Rainy Days"
+    },
+    {
+      "id": "0108",
+      "duration": 182,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "V", "Taehyung", "Kim Taehyung", "Tae"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d46aa3a3b70786cb2137c878f1a76946/500x500.jpg",
+      "title": "Love Me Again"
+    },
+    {
+      "id": "0109",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "V", "Taehyung", "Kim Taehyung", "Tae"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d46aa3a3b70786cb2137c878f1a76946/500x500.jpg",
+      "title": "Slow Dancing"
+    },
+    {
+      "id": "0110",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "BTS",
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jungkook", "Jung Kook", "Jk", "3d bts"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/524f5277c3e00f4c3af6203b78826595/500x500.jpg",
+      "title": "3D"
+    },
+    {
+      "id": "0111",
+      "duration": 231,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/96103e7733eb2a881bfdfcbb21b50b9d/500x500.jpg",
+      "title": "CROWN"
+    },
+    {
+      "id": "0112",
+      "duration": 210,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/96103e7733eb2a881bfdfcbb21b50b9d/500x500.jpg",
+      "title": "Our Summer"
+    },
+    {
+      "id": "0113",
+      "duration": 188,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "cat and dog"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/96103e7733eb2a881bfdfcbb21b50b9d/500x500.jpg",
+      "title": "Cat & Dog"
+    },
+    {
+      "id": "0114",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/96103e7733eb2a881bfdfcbb21b50b9d/500x500.jpg",
+      "title": "Blue Orangeade"
+    },
+    {
+      "id": "0115",
+      "duration": 243,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/96103e7733eb2a881bfdfcbb21b50b9d/500x500.jpg",
+      "title": "Nap of a Star"
+    },
+    {
+      "id": "0116",
+      "duration": 222,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "our summer acoustic"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/358a81bfc74f533ae1a979c14c4a82ba/500x500.jpg",
+      "title": "Our Summer (Acoustic Mix)"
+    },
+    {
+      "id": "0117",
+      "duration": 212,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Run Away"
+    },
+    {
+      "id": "0118",
+      "duration": 193,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Poppin' Star"
+    },
+    {
+      "id": "0119",
+      "duration": 230,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "CWJLTMA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Can't We Just Leave The Monster Alive?"
+    },
+    {
+      "id": "0120",
+      "duration": 193,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Magic Island"
+    },
+    {
+      "id": "0121",
+      "duration": 232,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Angel or Devil"
+    },
+    {
+      "id": "0122",
+      "duration": 174,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "New Rules"
+    },
+    {
+      "id": "0123",
+      "duration": 214,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "Roller Coaster"
+    },
+    {
+      "id": "0124",
+      "duration": 217,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/d82267fe985f841d63e49c0528ade720/500x500.jpg",
+      "title": "20cm"
+    },
+    {
+      "id": "0125",
+      "duration": 201,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e3edcd5272e7c95d07205cfde7c37182/500x500.jpg",
+      "title": "Can't You See Me?"
+    },
+    {
+      "id": "0126",
+      "duration": 206,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e3edcd5272e7c95d07205cfde7c37182/500x500.jpg",
+      "title": "PUMA"
+    },
+    {
+      "id": "0127",
+      "duration": 226,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e3edcd5272e7c95d07205cfde7c37182/500x500.jpg",
+      "title": "Maze in the Mirror"
+    },
+    {
+      "id": "0128",
+      "duration": 217,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e3edcd5272e7c95d07205cfde7c37182/500x500.jpg",
+      "title": "Eternally"
+    },
+    {
+      "id": "0129",
+      "duration": 210,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e3edcd5272e7c95d07205cfde7c37182/500x500.jpg",
+      "title": "Drama"
+    },
+    {
+      "id": "0130",
+      "duration": 209,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://static.qobuz.com/images/covers/8b/1c/r3pcijqdu1c8b_600.jpg",
+      "title": "Blue Hour"
+    },
+    {
+      "id": "0131",
+      "duration": 211,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://static.qobuz.com/images/covers/8b/1c/r3pcijqdu1c8b_600.jpg",
+      "title": "We Lost The Summer"
+    },
+    {
+      "id": "0132",
+      "duration": 183,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://static.qobuz.com/images/covers/8b/1c/r3pcijqdu1c8b_600.jpg",
+      "title": "Way Home"
+    },
+    {
+      "id": "0133",
+      "duration": 192,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://static.qobuz.com/images/covers/8b/1c/r3pcijqdu1c8b_600.jpg",
+      "title": "Wishlist"
+    },
+    {
+      "id": "0134",
+      "duration": 223,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://static.qobuz.com/images/covers/8b/1c/r3pcijqdu1c8b_600.jpg",
+      "title": "Ghosting"
+    },
+    {
+      "id": "0135",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "0X1", "LOVESONG", "oxi=lovesong", "oxi", "I know I love you"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "0X1=LOVESONG (I Know I Love You)"
+    },
+    {
+      "id": "0136",
+      "duration": 160,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "Magic"
+    },
+    {
+      "id": "0137",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "No Rules"
+    },
+    {
+      "id": "0138",
+      "duration": 203,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "Ice Cream"
+    },
+    {
+      "id": "0139",
+      "duration": 195,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "Frost"
+    },
+    {
+      "id": "0140",
+      "duration": 215,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "antiromantic"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "Anti-Romantic"
+    },
+    {
+      "id": "0141",
+      "duration": 195,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "Dear Sputnik"
+    },
+    {
+      "id": "0142",
+      "duration": 213,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/29762c42a990d69d49f9df6543b2c88b/500x500.jpg",
+      "title": "What if I had been that PUMA"
+    },
+    {
+      "id": "0143",
+      "duration": 198,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "loser lover", "lo$er=lover"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2512ae28f9f6a1ea418211e9c69490db/500x500.jpg",
+      "title": "LOSER=LOVER"
+    },
+    {
+      "id": "0144",
+      "duration": 188,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu", "moa diary", "dubaddu wari wari"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2512ae28f9f6a1ea418211e9c69490db/500x500.jpg",
+      "title": "MOA Diary (Dubaddu Wari Wari))"
+    },
+    {
+      "id": "0145",
+      "duration": 178,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/429ceaa7b9506643e687e199523d240e/500x500.jpg",
+      "title": "Opening Sequence"
+    },
+    {
+      "id": "0146",
+      "duration": 191,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/429ceaa7b9506643e687e199523d240e/500x500.jpg",
+      "title": "Good Boy Gone Bad"
+    },
+    {
+      "id": "0147",
+      "duration": 156,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/429ceaa7b9506643e687e199523d240e/500x500.jpg",
+      "title": "Trust Fund Baby"
+    },
+    {
+      "id": "0148",
+      "duration": "169",
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/429ceaa7b9506643e687e199523d240e/500x500.jpg",
+      "title": "Lonely Boy"
+    },
+    {
+      "id": "0149",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/3926d4612e07fb23f04fd520a5ec30aa/500x500.jpg",
+      "title": "Sugar Rush Ride"
+    },
+    {
+      "id": "0150",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/3926d4612e07fb23f04fd520a5ec30aa/500x500.jpg",
+      "title": "Devil by the Window"
+    },
+    {
+      "id": "0151",
+      "duration": 181,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/3926d4612e07fb23f04fd520a5ec30aa/500x500.jpg",
+      "title": "Farewell, Neverland"
+    },
+    {
+      "id": "0152",
+      "duration": 157,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/3926d4612e07fb23f04fd520a5ec30aa/500x500.jpg",
+      "title": "Tinnitus"
+    },
+    {
+      "id": "0153",
+      "duration": 156,
+      "difficulty": "Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/3926d4612e07fb23f04fd520a5ec30aa/500x500.jpg",
+      "title": "Happy Fools"
+    },
+    {
+      "id": "0154",
+      "duration": 145,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/e/eb/Tomorrow_X_Together_and_Jonas_Brothers_-_Do_It_Like_That.png",
+      "title": "Do It Like That"
+    },
+    {
+      "id": "0155",
+      "duration": 182,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Chasing That Feeling"
+    },
+    {
+      "id": "0156",
+      "duration": 201,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Skipping Stones"
+    },
+    {
+      "id": "0157",
+      "duration": 162,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Back For More"
+    },
+    {
+      "id": "0158",
+      "duration": 151,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Happily Ever After"
+    },
+    {
+      "id": "0159",
+      "duration": 200,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Growing Pain"
+    },
+    {
+      "id": "0160",
+      "duration": 164,
+      "difficulty": "Super Hard",
+      "artist": "TOMORROW X TOGETHER",
+      "artistAliases": ["TXT", "tubatu"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+      "title": "Deep Down"
+    },
+    {
+      "id": "0161",
+      "duration": 183,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "giventaken", "given taken"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b7e8387b691153c2797e71c601801bcd/500x500.jpg",
+      "title": "Given-Taken"
+    },
+    {
+      "id": "0162",
+      "duration": 194,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b7e8387b691153c2797e71c601801bcd/500x500.jpg",
+      "title": "10 Months"
+    },
+    {
+      "id": "0163",
+      "duration": 190,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b7e8387b691153c2797e71c601801bcd/500x500.jpg",
+      "title": "Let Me In"
+    },
+    {
+      "id": "0164",
+      "duration": 204,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b7e8387b691153c2797e71c601801bcd/500x500.jpg",
+      "title": "Flicker"
+    },
+    {
+      "id": "0165",
+      "duration": 193,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "drunk dazed", "drunkdazed"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8699047afc5f99d73df275ca4c2698f8/500x500.jpg",
+      "title": "Drunk-Dazed"
+    },
+    {
+      "id": "0166",
+      "duration": 181,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8699047afc5f99d73df275ca4c2698f8/500x500.jpg",
+      "title": "Not For Sale"
+    },
+    {
+      "id": "0167",
+      "duration": 172,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8699047afc5f99d73df275ca4c2698f8/500x500.jpg",
+      "title": "FEVER"
+    },
+    {
+      "id": "0168",
+      "duration": 183,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8699047afc5f99d73df275ca4c2698f8/500x500.jpg",
+      "title": "Mixed Up"
+    },
+    {
+      "id": "0169",
+      "duration": 196,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "tameddashed", "tamed dashed"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ee0942650f4caed07f761597b9757569/500x500.jpg",
+      "title": "Tamed-Dashed"
+    },
+    {
+      "id": "0170",
+      "duration": 189,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ee0942650f4caed07f761597b9757569/500x500.jpg",
+      "title": "Upper Side Dreamin'"
+    },
+    {
+      "id": "0171",
+      "duration": 200,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ee0942650f4caed07f761597b9757569/500x500.jpg",
+      "title": "Go Big or Go Home"
+    },
+    {
+      "id": "0172",
+      "duration": 168,
+      "difficulty": "Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ee0942650f4caed07f761597b9757569/500x500.jpg",
+      "title": "Just A Little Bit"
+    },
+    {
+      "id": "0173",
+      "duration": 168,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ee0942650f4caed07f761597b9757569/500x500.jpg",
+      "title": "Attention, please!"
+    },
+    {
+      "id": "0174",
+      "duration": 171,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "blessedcursed", "blessed cursed"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1baed27ae35353f90bdf4cc956ee6569/500x500.jpg",
+      "title": "Blessed-Cursed"
+    },
+    {
+      "id": "0175",
+      "duration": 185,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1baed27ae35353f90bdf4cc956ee6569/500x500.jpg",
+      "title": "Polaroid Love"
+    },
+    {
+      "id": "0176",
+      "duration": 181,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "future perfect", "pass the mic"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/eae89caa80dbce080bf83fb093a55cf7/500x500.jpg",
+      "title": "Future Perfect (Pass The MIC)"
+    },
+    {
+      "id": "0177",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "paradox invasion"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/eae89caa80dbce080bf83fb093a55cf7/500x500.jpg",
+      "title": "ParadoXXX Invasion"
+    },
+    {
+      "id": "0178",
+      "duration": 198,
+      "difficulty": "Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "tfw", "that feeling when"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/eae89caa80dbce080bf83fb093a55cf7/500x500.jpg",
+      "title": "TFW (That Feeling When)"
+    },
+    {
+      "id": "0179",
+      "duration": 228,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/eae89caa80dbce080bf83fb093a55cf7/500x500.jpg",
+      "title": "Shout Out"
+    },
+    {
+      "id": "0180",
+      "duration": 218,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ad7832a7f9439bcb8d289d9d5acd8bb3/500x500.jpg",
+      "title": "Bite Me"
+    },
+    {
+      "id": "0181",
+      "duration": 176,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ad7832a7f9439bcb8d289d9d5acd8bb3/500x500.jpg",
+      "title": "Bills"
+    },
+    {
+      "id": "0182",
+      "duration": 193,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ad7832a7f9439bcb8d289d9d5acd8bb3/500x500.jpg",
+      "title": "Karma"
+    },
+    {
+      "id": "0183",
+      "duration": 203,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha", "sacrifice", "eat me up"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ad7832a7f9439bcb8d289d9d5acd8bb3/500x500.jpg",
+      "title": "Sacrifice (Eat Me Up)"
+    },
+    {
+      "id": "0184",
+      "duration": 214,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/ad7832a7f9439bcb8d289d9d5acd8bb3/500x500.jpg",
+      "title": "Chaconne"
+    },
+    {
+      "id": "0185",
+      "duration": 228,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1f9eb5e488109ac00a89a3663e168209/500x500.jpg",
+      "title": "Mortal"
+    },
+    {
+      "id": "0186",
+      "duration": 149,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1f9eb5e488109ac00a89a3663e168209/500x500.jpg",
+      "title": "Sweet Venom"
+    },
+    {
+      "id": "0187",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "ENHYPEN",
+      "artistAliases": ["enha"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1f9eb5e488109ac00a89a3663e168209/500x500.jpg",
+      "title": "Still Monster"
+    },
+    {
+      "id": "0188",
+      "duration": 204,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/0e798453bdf5a1c0f971ed5c3edd6221/500x500.jpg",
+      "title": "Shining Diamond"
+    },
+    {
+      "id": "0189",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/0e798453bdf5a1c0f971ed5c3edd6221/500x500.jpg",
+      "title": "Adore U"
+    },
+    {
+      "id": "0190",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/51bc49f6e1ecfa582070e5db3ca6e8fe/264x264.jpg",
+      "title": "MANSAE"
+    },
+    {
+      "id": "0191",
+      "duration": 192,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/51bc49f6e1ecfa582070e5db3ca6e8fe/264x264.jpg",
+      "title": "ROCK"
+    },
+    {
+      "id": "0192",
+      "duration": 207,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+      "title": "Pretty U"
+    },
+    {
+      "id": "0193",
+      "duration": 204,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+      "title": "Healing"
+    },
+    {
+      "id": "0194",
+      "duration": 192,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+      "title": "Very Nice"
+    },
+    {
+      "id": "0195",
+      "duration": 207,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+      "title": "Still Lonely"
+    },
+    {
+      "id": "0196",
+      "duration": 178,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+      "title": "Chuck"
+    },
+    {
+      "id": "0197",
+      "duration": 206,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "boom boom"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/5e1cb2f77f15a6a13fb008cd32c93f3f/500x500.jpg",
+      "title": "BOOMBOOM"
+    },
+    {
+      "id": "0198",
+      "duration": 168,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "CLAP"
+    },
+    {
+      "id": "0199",
+      "duration": 207,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "Campfire"
+    },
+    {
+      "id": "0200",
+      "duration": 211,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "Lilili Yabbay"
+    },
+    {
+      "id": "0201",
+      "duration": 213,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "TRAUMA"
+    },
+    {
+      "id": "0202",
+      "duration": 212,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "BRING IT"
+    },
+    {
+      "id": "0203",
+      "duration": 195,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75cffff90f81be517483c3c2b72b6af0/500x500.jpg",
+      "title": "WITHOUT YOU"
+    },
+    {
+      "id": "0204",
+      "duration": 222,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/52/bc/bb52bcfc-f885-8fc8-0a86-6f8b132f5df6/cover-.jpg/1200x1200bf-60.jpg",
+      "title": "Thinkin' about you"
+    },
+    {
+      "id": "0205",
+      "duration": 213,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/52/bc/bb52bcfc-f885-8fc8-0a86-6f8b132f5df6/cover-.jpg/1200x1200bf-60.jpg",
+      "title": "THANKS"
+    },
+    {
+      "id": "0206",
+      "duration": 194,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/bb/52/bc/bb52bcfc-f885-8fc8-0a86-6f8b132f5df6/cover-.jpg/1200x1200bf-60.jpg",
+      "title": "RUN TO YOU"
+    },
+    {
+      "id": "0207",
+      "duration": "201",
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "BSS"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/a904f61db52f70d1a0710edfbd1c6c6e/350x350.jpg",
+      "title": "Just Do It"
+    },
+    {
+      "id": "0208",
+      "duration": 195,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/8/82/You_make_my_day_seventeen_artwork.png",
+      "title": "Oh My"
+    },
+    {
+      "id": "0209",
+      "duration": 212,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/8/82/You_make_my_day_seventeen_artwork.png",
+      "title": "Our Dawn Is Hotter Than Day"
+    },
+    {
+      "id": "0210",
+      "duration": 205,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/8/82/You_make_my_day_seventeen_artwork.png",
+      "title": "Holiday"
+    },
+    {
+      "id": "0211",
+      "duration": 168,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/8/82/You_make_my_day_seventeen_artwork.png",
+      "title": "What's Good"
+    },
+    {
+      "id": "0212",
+      "duration": 204,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "home svt"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Seventeen_-_You_Made_My_Dawn.png",
+      "title": "Home"
+    },
+    {
+      "id": "0213",
+      "duration": 184,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Seventeen_-_You_Made_My_Dawn.png",
+      "title": "Getting Closer"
+    },
+    {
+      "id": "0214",
+      "duration": 190,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/aa/Seventeen_-_You_Made_My_Dawn.png",
+      "title": "Good to Me"
+    },
+    {
+      "id": "0215",
+      "duration": 176,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "snapshoot"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "Snap Shoot"
+    },
+    {
+      "id": "0216",
+      "duration": 175,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "Fear"
+    },
+    {
+      "id": "0217",
+      "duration": 203,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "HIT"
+    },
+    {
+      "id": "0218",
+      "duration": 211,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "Happy Ending"
+    },
+    {
+      "id": "0219",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "Back it up"
+    },
+    {
+      "id": "0220",
+      "duration": 197,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/431a73c8685d609b429132af38104dda/500x500.jpg",
+      "title": "Lucky"
+    },
+    {
+      "id": "0221",
+      "duration": 185,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "My My"
+    },
+    {
+      "id": "0222",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "left and right"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "Left & Right"
+    },
+    {
+      "id": "0223",
+      "duration": 194,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "Fearless"
+    },
+    {
+      "id": "0224",
+      "duration": 233,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "I Wish"
+    },
+    {
+      "id": "0225",
+      "duration": 192,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "Kidult"
+    },
+    {
+      "id": "0226",
+      "duration": 244,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/b96bf9d7c585c08a67858707e91ba828/500x500.jpg",
+      "title": "Together"
+    },
+    {
+      "id": "0227",
+      "duration": 184,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://i.discogs.com/reXLfDvYdrPJYePQmrPG4VTSlpUZXWovPWG8CAG5rN4/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYw/NzA5LTE2MjI0Nzkx/MTYtNTU3MS5qcGVn.jpeg",
+      "title": "HOME;RUN"
+    },
+    {
+      "id": "0228",
+      "duration": 198,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://i.discogs.com/reXLfDvYdrPJYePQmrPG4VTSlpUZXWovPWG8CAG5rN4/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE4OTYw/NzA5LTE2MjI0Nzkx/MTYtNTU3MS5qcGVn.jpeg",
+      "title": "HEY BUDDY"
+    },
+    {
+      "id": "0229",
+      "duration": 177,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/30d64905780693d55447d54abfb117e2/500x500.jpg",
+      "title": "Anyone"
+    },
+    {
+      "id": "0230",
+      "duration": 187,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/30d64905780693d55447d54abfb117e2/500x500.jpg",
+      "title": "Ready to love"
+    },
+    {
+      "id": "0231",
+      "duration": 232,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/30d64905780693d55447d54abfb117e2/500x500.jpg",
+      "title": "Heaven's Cloud"
+    },
+    {
+      "id": "0232",
+      "duration": 189,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "game boy"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/30d64905780693d55447d54abfb117e2/500x500.jpg",
+      "title": "GAM3 BO1"
+    },
+    {
+      "id": "0233",
+      "duration": 170,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/500x500.jpg",
+      "title": "Crush"
+    },
+    {
+      "id": "0234",
+      "duration": 226,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/500x500.jpg",
+      "title": "To You"
+    },
+    {
+      "id": "0235",
+      "duration": 180,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/1fbbdc76ccd0ac6fef7c697defa3d3a9/500x500.jpg",
+      "title": "Rock with you"
+    },
+    {
+      "id": "0236",
+      "duration": 177,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/7f94720d84b95bb6943530dcdc1a072b/350x350.jpg",
+      "title": "Darl+ing"
+    },
+    {
+      "id": "0237",
+      "duration": 197,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/500x500.jpg",
+      "title": "HOT"
+    },
+    {
+      "id": "0238",
+      "duration": 162,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/500x500.jpg",
+      "title": "'bout you"
+    },
+    {
+      "id": "0239",
+      "duration": 172,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/10e6fca9e7fc37ee2e45a083cee58a70/500x500.jpg",
+      "title": "DON QUIXOTE"
+    },
+    {
+      "id": "0240",
+      "duration": 181,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75d47858695335a0ef70516a13895b02/500x500.jpg",
+      "title": "_WORLD"
+    },
+    {
+      "id": "0241",
+      "duration": 181,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/75d47858695335a0ef70516a13895b02/500x500.jpg",
+      "title": "CHEERS"
+    },
+    {
+      "id": "0242",
+      "duration": 204,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "BSS"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8d5a498a5913976d669598b61ea6421e/500x500.jpg",
+      "title": "Fighting"
+    },
+    {
+      "id": "0243",
+      "duration": 200,
+      "difficulty": "Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "BSS"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/8d5a498a5913976d669598b61ea6421e/500x500.jpg",
+      "title": "LUNCH"
+    },
+    {
+      "id": "0244",
+      "duration": 200,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/500x500.jpg",
+      "title": "Super"
+    },
+    {
+      "id": "0245",
+      "duration": 165,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/500x500.jpg",
+      "title": "Dust"
+    },
+    {
+      "id": "0246",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT", "fuck my life"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/500x500.jpg",
+      "title": "F*ck My Life"
+    },
+    {
+      "id": "0247",
+      "duration": 213,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/e6c7d4855dfd042ea1d7cf18057c271c/500x500.jpg",
+      "title": "April Shower"
+    },
+    {
+      "id": "0248",
+      "duration": 205,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+      "title": "God of Music"
+    },
+    {
+      "id": "0249",
+      "duration": 190,
+      "difficulty": "Super Hard",
+      "artist": "SEVENTEEN",
+      "artistAliases": ["SVT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+      "title": "Back 2 Back"
+    },
+    {
+      "id": "0250",
+      "duration": 184,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/63c5d60d249a6988c95ea021b6fee826/500x500.jpg",
+      "title": "ANTIFRAGILE"
+    },
+    {
+      "id": "0251",
+      "duration": 196,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/63c5d60d249a6988c95ea021b6fee826/500x500.jpg",
+      "title": "Impurities"
+    },
+    {
+      "id": "0252",
+      "duration": 156,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/63c5d60d249a6988c95ea021b6fee826/500x500.jpg",
+      "title": "Good Parts"
+    },
+    {
+      "id": "0253",
+      "duration": 166,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/63c5d60d249a6988c95ea021b6fee826/500x500.jpg",
+      "title": "No Celestial"
+    },
+    {
+      "id": "0254",
+      "duration": 168,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "FEARLESS"
+    },
+    {
+      "id": "0255",
+      "duration": 182,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "UNFORGIVEN"
+    },
+    {
+      "id": "0256",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA", "EPTBW", "eve psyche and the bluebeards wife"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "Eve, Psyche & The Bluebeard's wife"
+    },
+    {
+      "id": "0257",
+      "duration": 207,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA", "between you me and the lamppost", "BYMLP", "FEARNOT"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "Between you, me and the lamppost"
+    },
+    {
+      "id": "0258",
+      "duration": 202,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "Blue Flame"
+    },
+    {
+      "id": "0259",
+      "duration": 198,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "Fire in the belly"
+    },
+    {
+      "id": "0260",
+      "duration": 195,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/2834f331022077235d01d862bc6de48e/500x500.jpg",
+      "title": "Flash Forward"
+    },
+    {
+      "id": "0261",
+      "duration": 159,
+      "difficulty": "Super Hard",
+      "artist": "LE SSERAFIM",
+      "artistAliases": ["LESSERAFIM", "LESSERA"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/90f5c3693756ee020ca19a8d8406e256/500x500.jpg",
+      "title": "Perfect Night"
+    },
+    {
+      "id": "0262",
+      "duration": 179,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500.jpg",
+      "title": "Attention"
+    },
+    {
+      "id": "0263",
+      "duration": 179,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500.jpg",
+      "title": "Hype Boy"
+    },
+    {
+      "id": "0264",
+      "duration": 236,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500.jpg",
+      "title": "Cookie"
+    },
+    {
+      "id": "0265",
+      "duration": 178,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500.jpg",
+      "title": "Hurt"
+    },
+    {
+      "id": "0266",
+      "duration": 186,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/500x500.jpg",
+      "title": "Ditto"
+    },
+    {
+      "id": "0267",
+      "duration": 212,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/98bdcf64ff375c5066f53021e74244ce/500x500.jpg",
+      "title": "OMG"
+    },
+    {
+      "id": "0268",
+      "duration": 154,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500.jpg",
+      "title": "Super Shy"
+    },
+    {
+      "id": "0269",
+      "duration": 148,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500.jpg",
+      "title": "Cool With You"
+    },
+    {
+      "id": "0270",
+      "duration": 151,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500.jpg",
+      "title": "ETA"
+    },
+    {
+      "id": "0271",
+      "duration": 108,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500.jpg",
+      "title": "New Jeans"
+    },
+    {
+      "id": "0272",
+      "duration": 134,
+      "difficulty": "Super Hard",
+      "artist": "NEWJEANS",
+      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "albumCover": "https://cdns-images.dzcdn.net/images/cover/37e446fe36cee17b6215e5d506d18354/500x500.jpg",
+      "title": "ASAP"
+    },
+    {
+        "id": "0273",
+        "duration": 158,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT", "dino"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/a14428c7bcb26db95927c7b7698f1194/500x500.jpg",
+        "title": "Wait"
+      },
+      {
+        "id": "0274",
+        "duration": 205,
+        "difficulty": "Super Hard",
+        "artist": "BTS",
+        "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "j-hope", "hobi"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/19c37cf701f7ede70d3ae791398cc97a/500x500.jpg",
+        "title": "Hope World"
+      },
+      {
+        "id": "0275",
+        "duration": 229,
+        "difficulty": "Super Hard",
+        "artist": "BTS",
+        "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "j-hope", "hobi"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/19c37cf701f7ede70d3ae791398cc97a/500x500.jpg",
+        "title": "Daydream"
+      },
+      {
+        "id": "0276",
+        "duration": 189,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+        "title": "Headliner"
+      },
+      {
+        "id": "0277",
+        "duration": 159,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+        "title": "Monster"
+      },
+      {
+        "id": "0278",
+        "duration": 206,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+        "title": "Hit Song"
+      },
+      {
+        "id": "0279",
+        "duration": 178,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d2f519d8289b5a0cc9ddd56dcea918d/500x500.jpg",
+        "title": "Love Letter"
+      },
+      {
+        "id": "0280",
+        "duration": 180,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT", "maysong", "may song", "cancion de may"],
+        "albumCover": "https://upload.wikimedia.org/wikipedia/en/8/82/You_make_my_day_seventeen_artwork.png",
+        "title": "MOONWALKER"
+      },
+      {
+        "id": "0281",
+        "duration": 198,
+        "difficulty": "Super Hard",
+        "artist": "ENHYPEN",
+        "artistAliases": ["enha"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/1f9eb5e488109ac00a89a3663e168209/500x500.jpg",
+        "title": "Blind"
+      },
+      {
+        "id": "0282",
+        "duration": 137,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5c7c5db47162347b697153d77528add6/1900x1900-000000-80-0-0.jpg",
+        "title": "But I Like You"
+      },
+      {
+        "id": "0283",
+        "duration": 167,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo", "moo song"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5c7c5db47162347b697153d77528add6/1900x1900-000000-80-0-0.jpg",
+        "title": "One and Only"
+      },
+      {
+        "id": "0284",
+        "duration": 175,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/2a2bca2cc527a131fd31d151a46565c2/500x500.jpg",
+        "title": "But Sometimes"
+      },
+      {
+        "id": "0285",
+        "duration": 157,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo", "moo song"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/2a2bca2cc527a131fd31d151a46565c2/500x500.jpg",
+        "title": "ABCDLOVE"
+      },
+      {
+        "id": "0286",
+        "duration": 210,
+        "difficulty": "Super Hard",
+        "artist": "NEWJEANS",
+        "artistAliases": ["NJ", "Niujins", "pantalonas", "omg remix"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/3bf93527469ed115356e2663e234c8f2/500x500.jpg",
+        "title": "OMG - FRNK Remix"
+      },
+      {
+        "id": "0287",
+        "duration": 176,
+        "difficulty": "Super Hard",
+        "artist": "BTS",
+        "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jungkook", "Jung Kook", "Jk", "moo sad to dance", "moo song"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d316d47d96b7c8f5a029dffe1f38981/1900x1900-000000-80-0-0.jpg",
+        "title": "Too Sad to Dance"
+      },
+      {
+        "id": "0288",
+        "duration": 206,
+        "difficulty": "Super Hard",
+        "artist": "BTS",
+        "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "Jungkook", "Jung Kook", "Jk", "standing next to moo", "moo song"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5d316d47d96b7c8f5a029dffe1f38981/1900x1900-000000-80-0-0.jpg",
+        "title": "Standing Next to You"
+      },
+      {
+        "id": "0289",
+        "duration": 205,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+        "title": "Diamond Days"
+      },
+      {
+        "id": "0290",
+        "duration": 258,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/962937566dab652cc62b85141c6e795a/500x500.jpg",
+        "title": "Yawn"
+      },
+      {
+        "id": "0291",
+        "duration": 165,
+        "difficulty": "Super Hard",
+        "artist": "LE SSERAFIM",
+        "artistAliases": ["LESSERAFIM", "LESSERA"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/b63df0354855e0ee12be60ada1fbe30e/500x500.jpg",
+        "title": "EASY"
+      },
+      {
+        "id": "0292",
+        "duration": 160,
+        "difficulty": "Super Hard",
+        "artist": "LE SSERAFIM",
+        "artistAliases": ["LESSERAFIM", "LESSERA"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/b63df0354855e0ee12be60ada1fbe30e/500x500.jpg",
+        "title": "Good Bones"
+      },
+      {
+        "id": "0293",
+        "duration": 180,
+        "difficulty": "Super Hard",
+        "artist": "ENHYPEN",
+        "artistAliases": ["enha", "you complete me"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/1f9eb5e488109ac00a89a3663e168209/500x500.jpg",
+        "title": "Orange Flower"
+      },
+      {
+        "id": "0294",
+        "duration": 186,
+        "difficulty": "Super Hard",
+        "artist": "TOMORROW X TOGETHER",
+        "artistAliases": ["TXT", "tubatu"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+        "title": "Blue Spring"
+      },
+      {
+        "id": "0295",
+        "duration": 183,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/2a2bca2cc527a131fd31d151a46565c2/500x500.jpg",
+        "title": "Crying"
+      },
+      {
+        "id": "0296",
+        "duration": 201,
+        "difficulty": "Super Hard",
+        "artist": "NEWJEANS",
+        "artistAliases": ["NJ", "Niujins", "pantalonas", "ditto remix"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/3bf93527469ed115356e2663e234c8f2/500x500.jpg",
+        "title": "Ditto - 250 Remix"
+      },
+      {
+        "id": "0297",
+        "duration": 183,
+        "difficulty": "Super Hard",
+        "artist": "BOYNEXTDOOR",
+        "artistAliases": ["BND", "bonedo"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5c7c5db47162347b697153d77528add6/1900x1900-000000-80-0-0.jpg",
+        "title": "Serenade"
+      },
+      {
+        "id": "0298",
+        "duration": 212,
+        "difficulty": "Super Hard",
+        "artist": "LE SSERAFIM",
+        "artistAliases": ["LESSERAFIM", "LESSERA", "Huh Yunjin", "Yunjin"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/53dea192acd7ae2980cf21d987cdca16/500x500.jpg",
+        "title": "Raise your glass"
+      },
+      {
+        "id": "0299",
+        "duration": 232,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5e1cb2f77f15a6a13fb008cd32c93f3f/500x500.jpg",
+        "title": "Smile Flower"
+      },
+      {
+        "id": "0300",
+        "duration": 220,
+        "difficulty": "Super Hard",
+        "artist": "SEVENTEEN",
+        "artistAliases": ["SVT"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/5e1cb2f77f15a6a13fb008cd32c93f3f/500x500.jpg",
+        "title": "Fast Pace"
+      },
+      {
+        "id": "0301",
+        "duration": 186,
+        "difficulty": "Super Hard",
+        "artist": "TOMORROW X TOGETHER",
+        "artistAliases": ["TXT", "tubatu"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/70ca968b1bda8e601eb8c11d16dce144/500x500.jpg",
+        "title": "Dreamer"
+      },
+      {
+        "id": "0302",
+        "duration": 171,
+        "difficulty": "Super Hard",
+        "artist": "TOMORROW X TOGETHER",
+        "artistAliases": ["TXT", "tubatu", "deja moo", "moo song"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/c8787253f09ee8d815dd86937a92edff/500x500.jpg",
+        "title": "Deja Vu"
+      },
+      {
+        "id": "0303",
+        "duration": 196,
+        "difficulty": "Super Hard",
+        "artist": "TOMORROW X TOGETHER",
+        "artistAliases": ["TXT", "tubatu", "ill see moo there tomorrow", "moo song", "isytt"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/c8787253f09ee8d815dd86937a92edff/500x500.jpg",
+        "title": "I'll See You There Tomorrow"
+      },
+      {
+        "id": "0304",
+        "duration": 157,
+        "difficulty": "Super Hard",
+        "artist": "LE SSERAFIM",
+        "artistAliases": ["LESSERAFIM", "LESSERA"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/b63df0354855e0ee12be60ada1fbe30e/500x500.jpg",
+        "title": "Swan Song"
+      },
+      {
+        "id": "0305",
+        "duration": 181,
+        "difficulty": "Super Hard",
+        "artist": "NEWJEANS",
+        "artistAliases": ["NJ", "Niujins", "pantalonas", "attention remix"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/3bf93527469ed115356e2663e234c8f2/500x500.jpg",
+        "title": "Attention - 250 Remix"
+      },
+      {
+        "id": "0306",
+        "duration": 148,
+        "difficulty": "Super Hard",
+        "artist": "BTS",
+        "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "V", "Taehyung", "Kim Taehyung", "Tae", "friends v"],
+        "albumCover": "https://cdns-images.dzcdn.net/images/cover/9a2ae793f31925e6f9732f6cc33ef597/500x500.jpg",
+        "title": "FRI(END)S"
+      }
+  ]
+  
