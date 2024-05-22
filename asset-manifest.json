@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/edsonmier/Osciris/static/css/main.a7f8b201.css",
-    "main.js": "/edsonmier/Osciris/static/js/main.21f48769.js",
+    "main.js": "/edsonmier/Osciris/static/js/main.48f048ac.js",
     "static/js/453.68693753.chunk.js": "/edsonmier/Osciris/static/js/453.68693753.chunk.js",
     "index.html": "/edsonmier/Osciris/index.html",
     "main.a7f8b201.css.map": "/edsonmier/Osciris/static/css/main.a7f8b201.css.map",
-    "main.21f48769.js.map": "/edsonmier/Osciris/static/js/main.21f48769.js.map",
+    "main.48f048ac.js.map": "/edsonmier/Osciris/static/js/main.48f048ac.js.map",
     "453.68693753.chunk.js.map": "/edsonmier/Osciris/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f8b201.css",
-    "static/js/main.21f48769.js"
+    "static/js/main.48f048ac.js"
   ]
 }
