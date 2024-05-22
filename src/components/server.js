@@ -18,7 +18,7 @@ app.use(cors({
   origin: "http://localhost:3001"
 }));
 
-const tiktokUsername = "lanaslifeee";
+const tiktokUsername = "dark.osciris";
 const tiktokLiveConnection = new WebcastPushConnection(tiktokUsername);
 
 // Inicializa el conjunto con los suscriptores existentes

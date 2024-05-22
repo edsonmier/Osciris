@@ -401,7 +401,7 @@
       "duration": 225,
       "difficulty": "Super Hard",
       "artist": "BTS",
-      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "wings"],
+      "artistAliases": ["Bangtan Boys", "Bulletproof Boy Scouts", "wings", "moo wings"],
       "albumCover": "https://images.squarespace-cdn.com/content/v1/5aa2069c25bf02363bf5c7c4/1525419726713-1GRPX2FK8GLGLNC53FFI/image-asset.jpeg",
       "title": "Outro: Wings"
     },
@@ -2363,7 +2363,7 @@
       "duration": 179,
       "difficulty": "Super Hard",
       "artist": "NEWJEANS",
-      "artistAliases": ["NJ", "Niujins", "pantalonas"],
+      "artistAliases": ["NJ", "Niujins", "pantalonas", "moo attention"],
       "albumCover": "https://cdns-images.dzcdn.net/images/cover/a87d8380756567e6bc1f65d43ac2b46d/500x500.jpg",
       "title": "Attention"
     },
@@ -2552,7 +2552,7 @@
         "duration": 167,
         "difficulty": "Super Hard",
         "artist": "BOYNEXTDOOR",
-        "artistAliases": ["BND", "bonedo", "moo song"],
+        "artistAliases": ["BND", "bonedo", "moo song", "moo one and only"],
         "albumCover": "https://cdns-images.dzcdn.net/images/cover/5c7c5db47162347b697153d77528add6/1900x1900-000000-80-0-0.jpg",
         "title": "One and Only"
       },
