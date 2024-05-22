@@ -10,7 +10,7 @@
     "firebase": "^8.2.3",
     "gh-pages": "^3.2.3",
     "firebase-admin": "^9.4.2",
-    "tiktok-live-connector": "^1.2.0",
+    "tiktok-live-connector": "^1.1.6",
     "socket.io": "^3.1.0",
     "express": "^4.17.1",
     "cors": "^2.8.5"
